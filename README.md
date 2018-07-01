@@ -1,5 +1,7 @@
 # recsys2018
 
+The third place solution in RecSys Challenge 2018 by Avito team.
+
 To start it is necessary folder 'data' with data in json and challenge_set.json file.
 
 The order of execution:
